@@ -2,7 +2,7 @@
 set separator none
 title Customer Management System Design Doc
 
-!$ICONURL = "icons"
+!$ICONURL = "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v3.0.0/icons"
 !include $ICONURL/common.puml
 
 Teacher(Teacher, "")
