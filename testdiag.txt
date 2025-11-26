@@ -1,0 +1,12 @@
+@startuml
+set separator none
+title Customer Management System Design Doc
+
+!$ICONURL = "icons"
+!include $ICONURL/common.puml
+
+Teacher(Teacher, "")
+Support(Support, "")
+Marketing(Marketing, "")
+Financing(Financing, "")
+@enduml
