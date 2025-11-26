@@ -2,7 +2,7 @@
 
 skinparam defaultTextAlignment center
 
-!$ICONURL = "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v3.0.0/icons"
+!$ICONURL = "icons"
 !include $ICONURL/common.puml
 
 !include $ICONURL/common.puml
