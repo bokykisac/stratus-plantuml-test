@@ -3,8 +3,7 @@
 skinparam defaultTextAlignment center
 
 !$ICONURL = "icons"
-
-!include ./icons/common.puml
+!include $ICONURL/common.puml
 
 !include $ICONURL/common.puml
 !include $ICONURL/devicons/mysql.puml
