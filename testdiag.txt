@@ -2,13 +2,10 @@
 
 skinparam defaultTextAlignment center
 
-!$ICONURL = "icons"
-!include $ICONURL/common.puml
-
-!include $ICONURL/common.puml
-!include $ICONURL/devicons/mysql.puml
-!include $ICONURL/font-awesome/server.puml
-!include $ICONURL/font-awesome-5/database.puml
+!include ../common.puml
+!include ../devicons/mysql.puml
+!include ../font-awesome/server.puml
+!include ../font-awesome-5/database.puml
 
 title Styling example
 
