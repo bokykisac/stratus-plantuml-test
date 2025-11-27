@@ -5,7 +5,7 @@ skinparam defaultTextAlignment center
 !include ../main/icons/common.puml
 !include ./icons/devicons/mysql.puml
 !include icons/font-awesome/server.puml
-!include ../blob/main/icons/font-awesome-5/database.puml
+!include ../main/icons/font-awesome-5/database.puml
 
 title Styling example
 
