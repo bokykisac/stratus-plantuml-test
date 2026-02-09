@@ -2,7 +2,7 @@
 
 skinparam defaultTextAlignment center
 
-!include @bokykisac[main]/common.puml
+!include @stratus-puml-test[main]/common.puml
 !include ../icons/devicons/mysql.puml
 !include ../icons/font-awesome/server.puml
 !include ../icons/font-awesome-5/database.puml
