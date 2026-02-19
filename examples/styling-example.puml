@@ -9,7 +9,7 @@ skinparam defaultTextAlignment center
 
 title Styling example
 
-FA_SERVER(web1,WEB1) #Green
+FA_SERVER(web1,WEB1) #Red
 FA_SERVER(web2,WEB1) #Yellow
 FA_SERVER(web3,WEB1) #Blue
 FA_SERVER(web4,WEB1) #YellowGreen
